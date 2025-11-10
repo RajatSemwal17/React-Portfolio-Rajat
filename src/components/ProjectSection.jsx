@@ -5,26 +5,26 @@ const projects = [
     id: 1,
     title: "EDULUXE",
     description: "A website where student/teacher can see their important stuff related to College.",
-    image: "projects/eduluxe.png",
+    image: "/React-Portfolio-Rajat/projects/eduluxe.png",
     tags: ["HTML", "CSS", "REACT", "BACKEND", "MONGODB"],
     demoUrl: "https://rajatsemwal17.github.io/SMART-CAMPUS-MANAGEMENT-SYSTEM-EDULUXE/",
-    githubUrl: "#"
+    githubUrl: "https://github.com/RajatSemwal17/SMART-CAMPUS-MANAGEMENT-SYSTEM-EDULUXE"
   }, {
     id: 2,
     title: "Personal Resume Page",
     description: "Personal Resume Page: ShowCasting a person's all the Skills and about themselves.",
-    image: "projects/ResumePage.png",
+    image: "/React-Portfolio-Rajat/projects/ResumePage.png",
     tags: ["HTML", "CSS", "JS", "BOOTSTRAP"],
     demoUrl: "https://rajatsemwal17.github.io/PERSONAL-RESUME-PAGE-/1.html",
-    githubUrl: "#"
+    githubUrl: "https://github.com/RajatSemwal17/PERSONAL-RESUME-PAGE-"
   }, {
     id: 3,
     title: "Personal Portfolio Website",
     description: "Website showcasing About myself, my Projects and connect with me.",
-    image: "projects/Portfolio.png",
+    image: "/React-Portfolio-Rajat/projects/Portfolio.png",
     tags: ["HTML", "CSS", "TAILWINDCSS"],
-    demoUrl: "#",
-    githubUrl: "#"
+    demoUrl: "https://rajatsemwal17.github.io/React-Portfolio-Rajat/",
+    githubUrl: "https://github.com/RajatSemwal17/React-Portfolio-Rajat"
   }
 ]
 

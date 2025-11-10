@@ -59,7 +59,7 @@ export const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-medium">Email</h4>
-                  <a href="www.gmail.com" className="text-muted-foreground hover:text-[oklch(0.85_0.37_145.52)] transition-colors">rajatsemwal17@gmail.com</a>
+                  <a href="mailto:rajatsemwal17@gmail.com" className="text-muted-foreground hover:text-[oklch(0.85_0.37_145.52)] transition-colors">rajatsemwal17@gmail.com</a>
                 </div>
               </div>
 
@@ -79,7 +79,7 @@ export const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-medium">Location</h4>
-                  <a href="www.gmail.com" className="text-muted-foreground hover:text-[oklch(0.85_0.37_145.52)] transition-colors">Behlana, Chandigarh, India</a>
+                  <a href="https://maps.google.com/?q=Behlana,Chandigarh,India" target="_blank" className="text-muted-foreground hover:text-[oklch(0.85_0.37_145.52)] transition-colors">Behlana, Chandigarh, India</a>
                 </div>
               </div>
             </div>
